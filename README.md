@@ -2,7 +2,7 @@
 📝 Overview
 This interactive R Shiny dashboard presents an analysis of survey data collected from Eduvos IT graduates. It visualizes trends in programming languages, databases, web frameworks, and other tech tools that graduates commonly use, providing insights into the evolving tech landscape.
 
-🚀 How to Use
+How to Use
 Navigate to the Dashboard panel to view graphs and data overviews.
 
 Explore:
