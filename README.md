@@ -19,11 +19,17 @@ Utilize interactive components (dropdowns, sliders, etc.) to filter and explore 
 
 🔍 Features
 ✔️ Programming Tools Analysis
+
 ✔️ Top Web Frameworks Overview
+
 ✔️ Top Roles in Tech (e.g., Data Scientist, Software Engineer)
+
 ✔️ Employment Trends
+
 ✔️ Top AI Tools Used by Graduates
+
 ✔️ Top AI Search Engines
+
 ✔️ Value Boxes:
 
 Role Statistics
